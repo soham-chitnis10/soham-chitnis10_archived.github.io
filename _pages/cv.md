@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+* [CV](https://github.com/soham-chitnis10/soham-chitnis10.github.io/blob/main/files/Soham_Chitnis_CV.pdf)
 
-Education
+<!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
@@ -57,3 +58,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->
