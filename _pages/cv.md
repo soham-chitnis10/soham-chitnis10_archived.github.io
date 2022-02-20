@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-* [CV](https://github.com/soham-chitnis10/soham-chitnis10.github.io/blob/main/files/Soham_Chitnis_CV.pdf)
+* [CV](https://soham-chitnis10.github.io/files/Soham_Chitnis_CV.pdf)
 
 <!-- Education
 ======
