@@ -1,14 +1,14 @@
 ---
-title: "Teaching Assitant"
+title: "Computer Programming"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assitant"
 permalink: /teaching/cp_ta22.md
-venue: "University 1, Department"
+# venue: "University 1, Department"
 date: 2022-05-05
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching Assitant for the course Computer Programming (CS F111) offered by the [Department of Computer Science & Information Systems, BITS Pilani K.K Birla Goa campus](https://www.bits-pilani.ac.in/goa/ComputerScienceInformationsSystems/ComputerScienceandInformationSystems). 
 
 Heading 1
 ======
