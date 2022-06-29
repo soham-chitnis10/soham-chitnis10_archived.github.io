@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assitant"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Undergraduate course"
+permalink: /teaching/cp_ta22.md
 venue: "University 1, Department"
-date: 2015-01-01
+date: 2022-05-05
 location: "City, Country"
 ---
 
