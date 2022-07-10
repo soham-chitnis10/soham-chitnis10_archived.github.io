@@ -2,7 +2,7 @@
 title: "Academic Assistance Program Mentor: MATH F111 Mathematics-I (Multivariate Calculus) "
 collection: teaching
 type: "Mentor"
-permalink: /teaching/app_cte_21.md
+permalink: /teaching/app_cte_21
 venue: "Birla Institute of Technology and Science Pilani"
 date: 2022-05-05
 location: "Goa, India"

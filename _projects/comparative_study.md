@@ -2,7 +2,7 @@
 title: "Comparative Study of Reward functions on Policy gradient"
 collection: projects
 type: "Self-motivated"
-permalink: /projects/comparative_study.md
+permalink: /projects/comparative_study
 venue: ""
 location: ""
 ---

@@ -2,7 +2,7 @@
 title: "Teaching Assistant, CS F111: Computer Programming"
 collection: teaching
 type: "Teaching Assistant"
-permalink: /teaching/cp_ta22.md
+permalink: /teaching/cp_ta22
 venue: "Birla Institute of Technology and Science Pilani"
 date: 2022-05-05
 location: "Goa, India"
