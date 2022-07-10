@@ -2,7 +2,7 @@
 title: "Hyperspectal Image Classification for Plastic Segregation"
 collection: projects
 type: "Industry project"
-permalink: /projects/hsi
+permalink: /projects/hsi.md
 venue: "CSIR-CEERI"
 location: "Chennai, India"
 ---

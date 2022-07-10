@@ -2,7 +2,7 @@
 title: "Super Resolution ConvNets"
 collection: projects
 type: "Self-motivated"
-permalink: /projects/super-resolution
+permalink: /projects/super-resolution.md
 venue: ""
 location: ""
 ---
