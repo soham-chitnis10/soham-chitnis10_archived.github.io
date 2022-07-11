@@ -1,7 +1,7 @@
 experiences:
   - name: "CSIR-CEERI Pilani"
-  - img-path: "ceeri.png"
-  - designation: "Research Intern"
-  - url: "https://www.ceeri.res.in/"
-  - date: "May 2022 - Ongoing"
-  - desc: "Working on Hyperspectal Image Classification for plastics segregation"
+    img-path: "ceeri.png"
+    designation: "Research Intern"
+    url: "https://www.ceeri.res.in/"
+    date: "May 2022 - Ongoing"
+    desc: "Working on Hyperspectal Image Classification for plastics segregation"
