@@ -13,6 +13,7 @@ I am Soham Chitnis, currently a pre-final year student at Birla Institute of Tec
 
 **Recent News**
 
+* February 2023 - Awarded [MITACS Globalink Research Internship Scholarship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) for the summer internship at [Visual Computing Lab, Ontario Tech University](http://vclab.science.uoit.ca/).
 * October 2022 - Joining the [Kwon Lab for Low Vision and Brain Research, Northeastern University](https://kwonlab.sites.northeastern.edu/) as Research Assistant.
 * July 2022 - Attending the [6th Summer School on AI with focus on Computer Vision & Machine Learning](http://cvit.iiit.ac.in/summerschool2022/index.php).
 * July 2022 - Instructor for the course Introduction to Deep Learning by Quark Controls, BITS Pilani Goa.
