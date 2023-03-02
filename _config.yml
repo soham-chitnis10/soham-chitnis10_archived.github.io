@@ -86,7 +86,7 @@ author:
   location         : "Goa"
   employer         :
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-#   googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UWk89BUAAAAJ"
   email            : "sohamchitnis10@gmail.com"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
