@@ -1,7 +1,7 @@
 ---
 title: "Domain-Specific Pretraining Improves Confidence in Whole Slide Image Classification"
 collection: preprints
-permalink: /publications/2023-02-23-paper-title-number-1
+permalink: /publications/2023-02-23-embc
 date: 2023-02-20
 venue: 'Submitted to EMBC 2023'
 paperurl: 'https://arxiv.org/abs/2302.09833'
