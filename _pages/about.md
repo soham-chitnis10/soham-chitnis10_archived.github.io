@@ -13,6 +13,7 @@ I am Soham Chitnis, currently a pre-final year student at Birla Institute of Tec
 
 **Recent News**
 
+* June 2023 - Paper at [EMBC 2023](https://embc.embs.org/2023/) accepted as an Oral-Presentation.
 * April 2023 - Paper accepted at [EMBC 2023](https://embc.embs.org/2023/): [[Preprint]](https://arxiv.org/abs/2302.09833)
 * February 2023 - Preprint released [Domain-Specific Pretraining Improves Confidence in Whole Slide Image Classification](https://arxiv.org/abs/2302.09833)
 * February 2023 - Awarded [MITACS Globalink Research Internship Scholarship](https://www.mitacs.ca/en/programs/globalink/globalink-research-internship) for the summer internship at [Visual Computing Lab, Ontario Tech University](http://vclab.science.uoit.ca/).
