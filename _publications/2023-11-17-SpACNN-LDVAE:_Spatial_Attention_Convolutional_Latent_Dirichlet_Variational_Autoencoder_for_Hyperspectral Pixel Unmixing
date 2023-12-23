@@ -1,5 +1,5 @@
 ---
-title: "Domain-Specific Pre-training Improves Confidence in Whole Slide Image Classification"
+title: "SpACNN-LDVAE: Spatial Attention Convolutional Latent Dirichlet Variational Autoencoder for Hyperspectral Pixel Unmixing"
 collection: preprints
 permalink: /publications/2023-11-17-spacnn-ldvae
 date: 2023-11-17
