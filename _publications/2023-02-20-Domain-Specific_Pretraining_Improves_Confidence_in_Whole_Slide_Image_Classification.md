@@ -3,8 +3,8 @@ title: "Domain-Specific Pre-training Improves Confidence in Whole Slide Image Cl
 collection: preprints
 permalink: /publications/2023-02-23-embc
 date: 2023-02-20
-venue: 'Accepted at EMBC 2023'
-paperurl: 'https://arxiv.org/abs/2302.09833'
+venue: 'Published at EMBC 2023'
+paperurl: 'https://ieeexplore.ieee.org/document/10340659'
 --- 
 
 ### Abstract
